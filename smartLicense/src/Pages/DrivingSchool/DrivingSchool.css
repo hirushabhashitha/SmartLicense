@@ -1,0 +1,63 @@
+/* DrivingSchool.css */
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f3f6f9;
+   
+}
+
+.driving-school-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px 20px;
+  height: 75vh;
+  background-color: #f3f6f9;
+}
+
+.driving-school-page h2 {
+  font-size: 28px;
+  font-weight: 600;
+  margin-bottom: 15px;
+  color: #131215;
+}
+
+.data-grid-wrapper {
+  width: 50%;
+  max-width: 900px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  padding: 16px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Remove blue outline on cell or column focus */
+.MuiDataGrid-cell:focus,
+.MuiDataGrid-columnHeader:focus {
+  outline: none !important;
+  border: none !important;
+}
+
+/* Optional: remove hover border too */
+.MuiDataGrid-cell:focus-within,
+.MuiDataGrid-columnHeader:focus-within {
+  outline: none !important;
+  border: none !important;
+}
+/* Customize the column headers */
+.MuiDataGrid-columnHeaders {
+  background-color: #f0f4f8; /* Light background for header */
+}
+
+.MuiDataGrid-columnHeaderTitle {
+  font-weight: bold;
+  font-size: 20px;
+  color: #0f1017; /* Dark blue text */
+}
+/* Make every row bold */
+.MuiDataGrid-cell {
+  font-weight: bold;
+}
+
+

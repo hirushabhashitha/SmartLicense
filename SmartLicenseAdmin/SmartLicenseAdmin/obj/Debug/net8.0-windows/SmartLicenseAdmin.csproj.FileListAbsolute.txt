@@ -1,0 +1,52 @@
+C:\Users\2003h\source\repos\SmartLicenseAdmin\SmartLicenseAdmin\bin\Debug\net8.0-windows\SmartLicenseAdmin.exe
+C:\Users\2003h\source\repos\SmartLicenseAdmin\SmartLicenseAdmin\bin\Debug\net8.0-windows\SmartLicenseAdmin.deps.json
+C:\Users\2003h\source\repos\SmartLicenseAdmin\SmartLicenseAdmin\bin\Debug\net8.0-windows\SmartLicenseAdmin.runtimeconfig.json
+C:\Users\2003h\source\repos\SmartLicenseAdmin\SmartLicenseAdmin\bin\Debug\net8.0-windows\SmartLicenseAdmin.dll
+C:\Users\2003h\source\repos\SmartLicenseAdmin\SmartLicenseAdmin\bin\Debug\net8.0-windows\SmartLicenseAdmin.pdb
+C:\Users\2003h\source\repos\SmartLicenseAdmin\SmartLicenseAdmin\obj\Debug\net8.0-windows\SmartLicenseAdmin.Dashboard.resources
+C:\Users\2003h\source\repos\SmartLicenseAdmin\SmartLicenseAdmin\obj\Debug\net8.0-windows\SmartLicenseAdmin.Form1.resources
+C:\Users\2003h\source\repos\SmartLicenseAdmin\SmartLicenseAdmin\obj\Debug\net8.0-windows\SmartLicenseAdmin.csproj.GenerateResource.cache
+C:\Users\2003h\source\repos\SmartLicenseAdmin\SmartLicenseAdmin\obj\Debug\net8.0-windows\SmartLicenseAdmin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2003h\source\repos\SmartLicenseAdmin\SmartLicenseAdmin\obj\Debug\net8.0-windows\SmartLicenseAdmin.AssemblyInfoInputs.cache
+C:\Users\2003h\source\repos\SmartLicenseAdmin\SmartLicenseAdmin\obj\Debug\net8.0-windows\SmartLicenseAdmin.AssemblyInfo.cs
+C:\Users\2003h\source\repos\SmartLicenseAdmin\SmartLicenseAdmin\obj\Debug\net8.0-windows\SmartLicenseAdmin.csproj.CoreCompileInputs.cache
+C:\Users\2003h\source\repos\SmartLicenseAdmin\SmartLicenseAdmin\obj\Debug\net8.0-windows\SmartLicenseAdmin.dll
+C:\Users\2003h\source\repos\SmartLicenseAdmin\SmartLicenseAdmin\obj\Debug\net8.0-windows\refint\SmartLicenseAdmin.dll
+C:\Users\2003h\source\repos\SmartLicenseAdmin\SmartLicenseAdmin\obj\Debug\net8.0-windows\SmartLicenseAdmin.pdb
+C:\Users\2003h\source\repos\SmartLicenseAdmin\SmartLicenseAdmin\obj\Debug\net8.0-windows\SmartLicenseAdmin.genruntimeconfig.cache
+C:\Users\2003h\source\repos\SmartLicenseAdmin\SmartLicenseAdmin\obj\Debug\net8.0-windows\ref\SmartLicenseAdmin.dll
+C:\Users\2003h\source\repos\SmartLicenseAdmin\SmartLicenseAdmin\obj\Debug\net8.0-windows\SmartLicenseAdmin.addschoolcomponents.resources
+C:\Users\2003h\source\repos\SmartLicenseAdmin\SmartLicenseAdmin\obj\Debug\net8.0-windows\SmartLicenseAdmin.licenseapplication.resources
+C:\Users\2003h\source\repos\SmartLicenseAdmin\SmartLicenseAdmin\obj\Debug\net8.0-windows\SmartLicenseAdmin.paymentcomponent.resources
+C:\Users\2003h\source\repos\SmartLicenseAdmin\SmartLicenseAdmin\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\2003h\source\repos\SmartLicenseAdmin\SmartLicenseAdmin\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\2003h\source\repos\SmartLicenseAdmin\SmartLicenseAdmin\obj\Debug\net8.0-windows\SmartLicenseAdmin.csproj.AssemblyReference.cache
+C:\Users\2003h\source\repos\SmartLicenseAdmin\SmartLicenseAdmin\obj\Debug\net8.0-windows\SmartLic.21C3ACE9.Up2Date
+C:\Users\2003h\source\repos\SmartLicenseAdmin\SmartLicenseAdmin\obj\Debug\net8.0-windows\SmartLicenseAdmin.dashboardcomponent.resources
+C:\Users\2003h\DSE-Final Project\SmartLicenseAdmin\SmartLicenseAdmin\bin\Debug\net8.0-windows\SmartLicenseAdmin.exe
+C:\Users\2003h\DSE-Final Project\SmartLicenseAdmin\SmartLicenseAdmin\bin\Debug\net8.0-windows\SmartLicenseAdmin.deps.json
+C:\Users\2003h\DSE-Final Project\SmartLicenseAdmin\SmartLicenseAdmin\bin\Debug\net8.0-windows\SmartLicenseAdmin.runtimeconfig.json
+C:\Users\2003h\DSE-Final Project\SmartLicenseAdmin\SmartLicenseAdmin\bin\Debug\net8.0-windows\SmartLicenseAdmin.dll
+C:\Users\2003h\DSE-Final Project\SmartLicenseAdmin\SmartLicenseAdmin\bin\Debug\net8.0-windows\SmartLicenseAdmin.pdb
+C:\Users\2003h\DSE-Final Project\SmartLicenseAdmin\SmartLicenseAdmin\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\2003h\DSE-Final Project\SmartLicenseAdmin\SmartLicenseAdmin\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\2003h\DSE-Final Project\SmartLicenseAdmin\SmartLicenseAdmin\obj\Debug\net8.0-windows\SmartLicenseAdmin.csproj.AssemblyReference.cache
+C:\Users\2003h\DSE-Final Project\SmartLicenseAdmin\SmartLicenseAdmin\obj\Debug\net8.0-windows\SmartLicenseAdmin.addschoolcomponents.resources
+C:\Users\2003h\DSE-Final Project\SmartLicenseAdmin\SmartLicenseAdmin\obj\Debug\net8.0-windows\SmartLicenseAdmin.ApplicationDetailsForm.resources
+C:\Users\2003h\DSE-Final Project\SmartLicenseAdmin\SmartLicenseAdmin\obj\Debug\net8.0-windows\SmartLicenseAdmin.Dashboard.resources
+C:\Users\2003h\DSE-Final Project\SmartLicenseAdmin\SmartLicenseAdmin\obj\Debug\net8.0-windows\SmartLicenseAdmin.dashboardcomponent.resources
+C:\Users\2003h\DSE-Final Project\SmartLicenseAdmin\SmartLicenseAdmin\obj\Debug\net8.0-windows\SmartLicenseAdmin.Form1.resources
+C:\Users\2003h\DSE-Final Project\SmartLicenseAdmin\SmartLicenseAdmin\obj\Debug\net8.0-windows\SmartLicenseAdmin.licenseapplication.resources
+C:\Users\2003h\DSE-Final Project\SmartLicenseAdmin\SmartLicenseAdmin\obj\Debug\net8.0-windows\SmartLicenseAdmin.paymentcomponent.resources
+C:\Users\2003h\DSE-Final Project\SmartLicenseAdmin\SmartLicenseAdmin\obj\Debug\net8.0-windows\SmartLicenseAdmin.csproj.GenerateResource.cache
+C:\Users\2003h\DSE-Final Project\SmartLicenseAdmin\SmartLicenseAdmin\obj\Debug\net8.0-windows\SmartLicenseAdmin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2003h\DSE-Final Project\SmartLicenseAdmin\SmartLicenseAdmin\obj\Debug\net8.0-windows\SmartLicenseAdmin.AssemblyInfoInputs.cache
+C:\Users\2003h\DSE-Final Project\SmartLicenseAdmin\SmartLicenseAdmin\obj\Debug\net8.0-windows\SmartLicenseAdmin.AssemblyInfo.cs
+C:\Users\2003h\DSE-Final Project\SmartLicenseAdmin\SmartLicenseAdmin\obj\Debug\net8.0-windows\SmartLicenseAdmin.csproj.CoreCompileInputs.cache
+C:\Users\2003h\DSE-Final Project\SmartLicenseAdmin\SmartLicenseAdmin\obj\Debug\net8.0-windows\SmartLic.21C3ACE9.Up2Date
+C:\Users\2003h\DSE-Final Project\SmartLicenseAdmin\SmartLicenseAdmin\obj\Debug\net8.0-windows\SmartLicenseAdmin.dll
+C:\Users\2003h\DSE-Final Project\SmartLicenseAdmin\SmartLicenseAdmin\obj\Debug\net8.0-windows\refint\SmartLicenseAdmin.dll
+C:\Users\2003h\DSE-Final Project\SmartLicenseAdmin\SmartLicenseAdmin\obj\Debug\net8.0-windows\SmartLicenseAdmin.pdb
+C:\Users\2003h\DSE-Final Project\SmartLicenseAdmin\SmartLicenseAdmin\obj\Debug\net8.0-windows\SmartLicenseAdmin.genruntimeconfig.cache
+C:\Users\2003h\DSE-Final Project\SmartLicenseAdmin\SmartLicenseAdmin\obj\Debug\net8.0-windows\ref\SmartLicenseAdmin.dll
+C:\Users\2003h\DSE-Final Project\SmartLicenseAdmin\SmartLicenseAdmin\obj\Debug\net8.0-windows\SmartLicenseAdmin.ApplicationFeeComponents.resources

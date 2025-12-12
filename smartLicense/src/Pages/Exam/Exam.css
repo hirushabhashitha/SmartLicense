@@ -1,0 +1,52 @@
+.exam-container {
+  padding: 20px;
+  max-width: 800px;
+  margin: auto;
+}
+
+.timer {
+  background: #ffe8b3;
+  padding: 10px;
+  border-radius: 6px;
+  margin-bottom: 20px;
+  font-size: 18px;
+}
+
+.exam-question {
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  background: white;
+}
+
+.q-text {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.options {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.option-item {
+  padding: 10px;
+  background: #f7f7f7;
+  border-radius: 6px;
+  border: 1px solid #ddd;
+}
+
+.option-item:hover {
+  background: #eaeaea;
+}
+
+.submit-btn {
+  padding: 12px 20px;
+  background: #0078ff;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}

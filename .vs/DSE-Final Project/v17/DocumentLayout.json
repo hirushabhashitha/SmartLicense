@@ -1,0 +1,285 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2003h\\DSE-Final Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2003h\\DSE-Final Project\\SmartLicenseAdmin\\SmartLicenseAdmin\\Dashboard.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SmartLicenseAdmin\\SmartLicenseAdmin\\Dashboard.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2003h\\DSE-Final Project\\SmartLicenseAdmin\\SmartLicenseAdmin\\Dashboard.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SmartLicenseAdmin\\SmartLicenseAdmin\\Dashboard.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2003h\\DSE-Final Project\\SmartLicenseAdmin\\SmartLicenseAdmin\\dashboardcomponent.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SmartLicenseAdmin\\SmartLicenseAdmin\\dashboardcomponent.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2003h\\DSE-Final Project\\SmartLicenseAdmin\\SmartLicenseAdmin\\addschoolcomponents.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SmartLicenseAdmin\\SmartLicenseAdmin\\addschoolcomponents.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2003h\\DSE-Final Project\\SmartLicenseAdmin\\SmartLicenseAdmin\\ApplicationDetailsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SmartLicenseAdmin\\SmartLicenseAdmin\\ApplicationDetailsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2003h\\DSE-Final Project\\SmartLicenseAdmin\\SmartLicenseAdmin\\paymentcomponent.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SmartLicenseAdmin\\SmartLicenseAdmin\\paymentcomponent.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2003h\\DSE-Final Project\\SmartLicenseAdmin\\SmartLicenseAdmin\\paymentcomponent.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SmartLicenseAdmin\\SmartLicenseAdmin\\paymentcomponent.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2003h\\DSE-Final Project\\SmartLicenseAdmin\\SmartLicenseAdmin\\SmartLicenseAdmin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SmartLicenseAdmin\\SmartLicenseAdmin\\SmartLicenseAdmin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2003h\\DSE-Final Project\\SmartLicenseAdmin\\SmartLicenseAdmin\\Dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SmartLicenseAdmin\\SmartLicenseAdmin\\Dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2003h\\DSE-Final Project\\SmartLicenseAdmin\\SmartLicenseAdmin\\ApplicationDetailsForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SmartLicenseAdmin\\SmartLicenseAdmin\\ApplicationDetailsForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2003h\\DSE-Final Project\\SmartLicenseAdmin\\SmartLicenseAdmin\\addschoolcomponents.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SmartLicenseAdmin\\SmartLicenseAdmin\\addschoolcomponents.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2003h\\DSE-Final Project\\SmartLicenseAdmin\\SmartLicenseAdmin\\addschoolcomponents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SmartLicenseAdmin\\SmartLicenseAdmin\\addschoolcomponents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2003h\\DSE-Final Project\\SmartLicenseAdmin\\SmartLicenseAdmin\\licenseapplication.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SmartLicenseAdmin\\SmartLicenseAdmin\\licenseapplication.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2003h\\DSE-Final Project\\SmartLicenseAdmin\\SmartLicenseAdmin\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SmartLicenseAdmin\\SmartLicenseAdmin\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2003h\\DSE-Final Project\\SmartLicenseAdmin\\SmartLicenseAdmin\\licenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SmartLicenseAdmin\\SmartLicenseAdmin\\licenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2003h\\DSE-Final Project\\SmartLicenseAdmin\\SmartLicenseAdmin\\Form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SmartLicenseAdmin\\SmartLicenseAdmin\\Form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dashboardcomponent.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\2003h\\DSE-Final Project\\SmartLicenseAdmin\\SmartLicenseAdmin\\dashboardcomponent.Designer.cs",
+              "RelativeDocumentMoniker": "SmartLicenseAdmin\\SmartLicenseAdmin\\dashboardcomponent.Designer.cs",
+              "ToolTip": "C:\\Users\\2003h\\DSE-Final Project\\SmartLicenseAdmin\\SmartLicenseAdmin\\dashboardcomponent.Designer.cs",
+              "RelativeToolTip": "SmartLicenseAdmin\\SmartLicenseAdmin\\dashboardcomponent.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T13:40:01.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "paymentcomponent.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\2003h\\DSE-Final Project\\SmartLicenseAdmin\\SmartLicenseAdmin\\paymentcomponent.Designer.cs",
+              "RelativeDocumentMoniker": "SmartLicenseAdmin\\SmartLicenseAdmin\\paymentcomponent.Designer.cs",
+              "ToolTip": "C:\\Users\\2003h\\DSE-Final Project\\SmartLicenseAdmin\\SmartLicenseAdmin\\paymentcomponent.Designer.cs",
+              "RelativeToolTip": "SmartLicenseAdmin\\SmartLicenseAdmin\\paymentcomponent.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T13:32:58.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "paymentcomponent.resx",
+              "DocumentMoniker": "C:\\Users\\2003h\\DSE-Final Project\\SmartLicenseAdmin\\SmartLicenseAdmin\\paymentcomponent.resx",
+              "RelativeDocumentMoniker": "SmartLicenseAdmin\\SmartLicenseAdmin\\paymentcomponent.resx",
+              "ToolTip": "C:\\Users\\2003h\\DSE-Final Project\\SmartLicenseAdmin\\SmartLicenseAdmin\\paymentcomponent.resx",
+              "RelativeToolTip": "SmartLicenseAdmin\\SmartLicenseAdmin\\paymentcomponent.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-29T13:32:57.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.resx",
+              "DocumentMoniker": "C:\\Users\\2003h\\DSE-Final Project\\SmartLicenseAdmin\\SmartLicenseAdmin\\Dashboard.resx",
+              "RelativeDocumentMoniker": "SmartLicenseAdmin\\SmartLicenseAdmin\\Dashboard.resx",
+              "ToolTip": "C:\\Users\\2003h\\DSE-Final Project\\SmartLicenseAdmin\\SmartLicenseAdmin\\Dashboard.resx",
+              "RelativeToolTip": "SmartLicenseAdmin\\SmartLicenseAdmin\\Dashboard.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-29T13:32:53.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDetailsForm.cs",
+              "DocumentMoniker": "C:\\Users\\2003h\\DSE-Final Project\\SmartLicenseAdmin\\SmartLicenseAdmin\\ApplicationDetailsForm.cs",
+              "RelativeDocumentMoniker": "SmartLicenseAdmin\\SmartLicenseAdmin\\ApplicationDetailsForm.cs",
+              "ToolTip": "C:\\Users\\2003h\\DSE-Final Project\\SmartLicenseAdmin\\SmartLicenseAdmin\\ApplicationDetailsForm.cs",
+              "RelativeToolTip": "SmartLicenseAdmin\\SmartLicenseAdmin\\ApplicationDetailsForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T12:46:22.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\2003h\\DSE-Final Project\\SmartLicenseAdmin\\SmartLicenseAdmin\\Dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "SmartLicenseAdmin\\SmartLicenseAdmin\\Dashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\2003h\\DSE-Final Project\\SmartLicenseAdmin\\SmartLicenseAdmin\\Dashboard.Designer.cs",
+              "RelativeToolTip": "SmartLicenseAdmin\\SmartLicenseAdmin\\Dashboard.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T12:51:08.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SmartLicenseAdmin.csproj",
+              "DocumentMoniker": "C:\\Users\\2003h\\DSE-Final Project\\SmartLicenseAdmin\\SmartLicenseAdmin\\SmartLicenseAdmin.csproj",
+              "RelativeDocumentMoniker": "SmartLicenseAdmin\\SmartLicenseAdmin\\SmartLicenseAdmin.csproj",
+              "ToolTip": "C:\\Users\\2003h\\DSE-Final Project\\SmartLicenseAdmin\\SmartLicenseAdmin\\SmartLicenseAdmin.csproj",
+              "RelativeToolTip": "SmartLicenseAdmin\\SmartLicenseAdmin\\SmartLicenseAdmin.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-29T13:32:56.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "addschoolcomponents.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\2003h\\DSE-Final Project\\SmartLicenseAdmin\\SmartLicenseAdmin\\addschoolcomponents.Designer.cs",
+              "RelativeDocumentMoniker": "SmartLicenseAdmin\\SmartLicenseAdmin\\addschoolcomponents.Designer.cs",
+              "ToolTip": "C:\\Users\\2003h\\DSE-Final Project\\SmartLicenseAdmin\\SmartLicenseAdmin\\addschoolcomponents.Designer.cs",
+              "RelativeToolTip": "SmartLicenseAdmin\\SmartLicenseAdmin\\addschoolcomponents.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T12:55:14.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\2003h\\DSE-Final Project\\SmartLicenseAdmin\\SmartLicenseAdmin\\Dashboard.cs",
+              "RelativeDocumentMoniker": "SmartLicenseAdmin\\SmartLicenseAdmin\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\2003h\\DSE-Final Project\\SmartLicenseAdmin\\SmartLicenseAdmin\\Dashboard.cs",
+              "RelativeToolTip": "SmartLicenseAdmin\\SmartLicenseAdmin\\Dashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T12:49:53.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDetailsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\2003h\\DSE-Final Project\\SmartLicenseAdmin\\SmartLicenseAdmin\\ApplicationDetailsForm.Designer.cs",
+              "RelativeDocumentMoniker": "SmartLicenseAdmin\\SmartLicenseAdmin\\ApplicationDetailsForm.Designer.cs",
+              "ToolTip": "C:\\Users\\2003h\\DSE-Final Project\\SmartLicenseAdmin\\SmartLicenseAdmin\\ApplicationDetailsForm.Designer.cs",
+              "RelativeToolTip": "SmartLicenseAdmin\\SmartLicenseAdmin\\ApplicationDetailsForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T12:54:17.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "addschoolcomponents.resx",
+              "DocumentMoniker": "C:\\Users\\2003h\\DSE-Final Project\\SmartLicenseAdmin\\SmartLicenseAdmin\\addschoolcomponents.resx",
+              "RelativeDocumentMoniker": "SmartLicenseAdmin\\SmartLicenseAdmin\\addschoolcomponents.resx",
+              "ToolTip": "C:\\Users\\2003h\\DSE-Final Project\\SmartLicenseAdmin\\SmartLicenseAdmin\\addschoolcomponents.resx",
+              "RelativeToolTip": "SmartLicenseAdmin\\SmartLicenseAdmin\\addschoolcomponents.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-29T12:46:20.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "addschoolcomponents.cs",
+              "DocumentMoniker": "C:\\Users\\2003h\\DSE-Final Project\\SmartLicenseAdmin\\SmartLicenseAdmin\\addschoolcomponents.cs",
+              "RelativeDocumentMoniker": "SmartLicenseAdmin\\SmartLicenseAdmin\\addschoolcomponents.cs",
+              "ToolTip": "C:\\Users\\2003h\\DSE-Final Project\\SmartLicenseAdmin\\SmartLicenseAdmin\\addschoolcomponents.cs",
+              "RelativeToolTip": "SmartLicenseAdmin\\SmartLicenseAdmin\\addschoolcomponents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T12:59:33.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "licenseapplication.resx",
+              "DocumentMoniker": "C:\\Users\\2003h\\DSE-Final Project\\SmartLicenseAdmin\\SmartLicenseAdmin\\licenseapplication.resx",
+              "RelativeDocumentMoniker": "SmartLicenseAdmin\\SmartLicenseAdmin\\licenseapplication.resx",
+              "ToolTip": "C:\\Users\\2003h\\DSE-Final Project\\SmartLicenseAdmin\\SmartLicenseAdmin\\licenseapplication.resx",
+              "RelativeToolTip": "SmartLicenseAdmin\\SmartLicenseAdmin\\licenseapplication.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-29T12:46:40.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2003h\\DSE-Final Project\\SmartLicenseAdmin\\SmartLicenseAdmin\\Program.cs",
+              "RelativeDocumentMoniker": "SmartLicenseAdmin\\SmartLicenseAdmin\\Program.cs",
+              "ToolTip": "C:\\Users\\2003h\\DSE-Final Project\\SmartLicenseAdmin\\SmartLicenseAdmin\\Program.cs",
+              "RelativeToolTip": "SmartLicenseAdmin\\SmartLicenseAdmin\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T12:46:38.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\2003h\\DSE-Final Project\\SmartLicenseAdmin\\SmartLicenseAdmin\\Form1.resx",
+              "RelativeDocumentMoniker": "SmartLicenseAdmin\\SmartLicenseAdmin\\Form1.resx",
+              "ToolTip": "C:\\Users\\2003h\\DSE-Final Project\\SmartLicenseAdmin\\SmartLicenseAdmin\\Form1.resx",
+              "RelativeToolTip": "SmartLicenseAdmin\\SmartLicenseAdmin\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-29T12:46:42.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "licenseapplication.cs",
+              "DocumentMoniker": "C:\\Users\\2003h\\DSE-Final Project\\SmartLicenseAdmin\\SmartLicenseAdmin\\licenseapplication.cs",
+              "RelativeDocumentMoniker": "SmartLicenseAdmin\\SmartLicenseAdmin\\licenseapplication.cs",
+              "ToolTip": "C:\\Users\\2003h\\DSE-Final Project\\SmartLicenseAdmin\\SmartLicenseAdmin\\licenseapplication.cs",
+              "RelativeToolTip": "SmartLicenseAdmin\\SmartLicenseAdmin\\licenseapplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T12:46:44.057Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

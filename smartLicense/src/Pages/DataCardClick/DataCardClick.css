@@ -1,0 +1,239 @@
+
+
+.datacardclick-container {
+  max-width: 500px;
+  margin: 40px 10px;
+  padding: 20px;
+  background-color: #f8fafc;
+  border-radius: 12px;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.05);
+  text-align: left; /* ensure text aligns left */
+}
+
+.datacardclick-title {
+  font-size: 24px;
+  font-weight: 600;
+  margin-bottom: 24px;
+  color: #333;
+  text-align: left; /* align title left */
+}
+
+.datacardclick-card {
+  background-color: #f1f5f9;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+/* ↓ Narrower spacing & tighter alignment ↓ */
+.data-row {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+  padding: 4px 0;
+  border-bottom: 1px solid #e0e0e0;
+  max-width: 250px; /* reduced row width */
+}
+
+/* ↓ Keep label + colon tightly grouped */
+.label-group {
+  display: flex;
+  align-items: center;
+  min-width: 120px; /* reduce width */
+  margin-right: 8px;
+  gap: 4px;
+}
+
+.label {
+  font-weight: 600;
+  color: #333;
+  font-size: 14px;
+}
+
+.colon {
+  color: #333;
+  font-size: 14px;
+}
+
+.value {
+  color: #444;
+  font-size: 14px;
+}
+
+/* ↓ Buttons + icon layout */
+.action-row {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-top: 16px;
+  gap: 10px;
+  padding-left: 0;
+}
+
+.eye-icon {
+  font-size: 22px;
+  color: #007bff;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.eye-icon:hover {
+  transform: scale(1.2);
+}
+
+.payment-button {
+  padding: 6px 14px;
+  background-color: #007bff;
+  color: white;
+  font-size: 14px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.25s ease;
+  white-space: nowrap;
+}
+
+.payment-button:hover {
+  background-color: #0056b3;
+}
+
+.payment-button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.payment-notice {
+  margin-top: 10px;
+  font-size: 13px;
+  color: #dc3545;
+  text-align: left;
+  max-width: 480px;
+}
+.exam-button {
+  padding: 6px 14px;
+  background-color: #28a745;
+  color: white;
+  font-size: 14px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.25s ease;
+  white-space: nowrap;
+}
+
+.exam-button:hover {
+  background-color: #218838;
+}
+.datacardclick-wrapper {
+  display: flex;
+  flex-wrap: wrap;       /* allow items to wrap to next row if space is not enough */
+  gap: 20px;             /* spacing between cards */
+  justify-content: center; /* center horizontally */
+  margin: 20px auto;
+}
+
+.datacardclick-container {
+  flex: 1 1 300px;       /* flexible width, min 300px */
+  max-width: 350px;      /* don’t stretch too big */
+}
+
+.datacardclick-card {
+  background: #fff;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+/* Status badge styles */
+.status-badge {
+  display: inline-block;
+  padding: 4px 10px;
+  border-radius: 12px;
+  font-size: 13px;
+  font-weight: 600;
+  text-transform: capitalize;
+  letter-spacing: 0.3px;
+}
+
+/* Pending */
+.status-pending {
+  background-color: #fff3cd; /* light yellow */
+  color: #856404;
+  border: 1px solid #ffeeba;
+}
+
+/* Approved */
+.status-approved {
+  background-color: #d4edda; /* light green */
+  color: #155724;
+  border: 1px solid #c3e6cb;
+}
+
+/* Rejected */n 
+.status-rejected {
+  background-color: #f8d7da; /* light red */
+  color: #721c24;
+  border: 1px solid #f5c6cb;
+}
+/* Modal grid layout */
+.modal-details-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); /* 350px -> wider */
+  gap: 30px;               /* more space between left & right */
+  margin-top: 20px;
+}
+
+/* Modal outer wrapper */
+.modal-notification {
+  max-width: 1000px !important;  /* modal size increase */
+  width: 95%;
+  margin: auto;
+  padding: 30px;
+  background: #fff;
+  border-radius: 14px;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.2);
+}
+
+
+.modal-details-grid h3 {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 12px;
+  color: #2c3e50;
+}
+
+.modal-details-grid p {
+  margin: 6px 0;
+  font-size: 14px;
+  color: #555;
+}
+.modal-details-columns {
+  display: flex;
+  justify-content: space-between;
+  gap: 40px;
+  margin-top: 15px;
+}
+
+.modal-left, .modal-right {
+  flex: 1;
+}
+
+.modal-left h3,
+.modal-right h3 {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 12px;
+  color: #2c3e50;
+}
+
+.modal-left p,
+.modal-right p {
+  margin: 6px 0;
+  font-size: 14px;
+  color: #444;
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+  .modal-details-columns {
+    flex-direction: column;
+  }
+}

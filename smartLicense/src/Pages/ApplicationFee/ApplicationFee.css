@@ -1,0 +1,52 @@
+.application-fee-container {
+  max-width: 600px;
+  margin: 60px auto;
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+.application-fee-title {
+  text-align: center;
+  font-size: 26px;
+  font-weight: 600;
+  margin-bottom: 25px;
+}
+
+.application-fee-box {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.application-fee-item {
+  display: flex;
+  justify-content: space-between;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.application-fee-item.total {
+  font-size: 20px;
+  font-weight: 700;
+  color: #007bff;
+  border-top: 1px solid #ddd;
+  padding-top: 10px;
+}
+
+.proceed-payment-btn {
+  margin-top: 30px;
+  padding: 12px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.proceed-payment-btn:hover {
+  background-color: #0056b3;
+}

@@ -1,0 +1,6 @@
+@SmartLicenseAPI_HostAddress = http://localhost:5278
+
+GET {{SmartLicenseAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+
